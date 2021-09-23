@@ -486,16 +486,16 @@ padding:10%;
     display:flex;
     flex-direction:column;
   }
-.display-content{
-  margin: 10px;
-  width:97%;
-  padding:15px;
-  overflow-x:scroll;
-}
-.table-of-content{
-  width: 100%;
-
-}
+ .display-content{
+    margin: 10px;
+    width:97%;
+    padding:15px;
+   
+  }
+  .table-of-content{
+    display:none;
+  
+  }
 
 }
 @media (max-width:650px){
