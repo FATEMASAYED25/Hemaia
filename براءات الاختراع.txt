@@ -1,0 +1,98 @@
+
+What is a patent?
+A patent is an exclusive right granted for an invention, which is a product or a process that provides, in general, a new way of doing something, or offers a new technical solution to a problem. To get a patent, technical information about the invention must be disclosed to the public in a patent application.
+
+What kind of protection does a patent offer?
+In principle, the patent owner has the exclusive right to prevent or stop others from commercially exploiting the patented invention. In other words, patent protection means that the invention cann't be commercially made, used, distributed, imported or sold by others without the patent owner's consent.
+
+Is a patent valid in every country?
+Patents are territorial rights. In general, the exclusive rights are only applicable in the country or region in which a patent has been filed and granted, in accordance with the law of that country or region.
+
+How long does a patent last?
+The protection is granted for a limited period, generally 20 years from the filing date of the application
+
+
+ Is a patent valid in every country?
+Patents are territorial rights. In general, the exclusive rights are only applicable in the country or region in which a patent has been filed and granted, in accordance with the law of that country or region.
+
+ How are patent rights enforced?
+Patent rights are usually enforced in a court on the initiative of the right owner. In most systems a court of law has the authority to stop patent infringement. However the main responsibility for monitoring, identifying, and taking action against infringers of a patent lies with the patent owner.
+
+
+ Do I need a patent attorney/agent to prepare and file a patent application?
+
+In general, applicants can prepare their patent applications and file them without assistance from a patent attorney. However, given the complexity of patent documents and the legal skills required, such as claim drafting, it is highly advisable to seek legal assistance from a patent attorney/agent when drafting a patent application.
+
+Furthermore, the legislation of many countries requires that an applicant, whose ordinary residence or principal place of business is outside the country, be represented by an attorney or agent qualified in the country (which usually means an agent or attorney who resides and practices in that country). Information on the qualified attorneys and agents can be obtained directly from national and regional IP offices.
+
+ How much does it cost to patent an invention?
+The costs vary considerably from country to country (and even within a country). As the official fees vary widely from country to country, please contact the relevant national or regional patent office which will be able to give you details on the fee structure. Consult our list of national and regional intellectual property offices.
+
+The cost of patenting an invention depends on factors such as the nature of the invention, its complexity, patent attorney’s fees, the length of the application, and possible objections raised during the examination by the patent office. Some countries offer discounts to small- and medium-sized enterprises and applicants filing the application online. In addition, some countries allow expedited examination upon payment of additional fees.
+
+In addition to the national official filing fees, once a patent is granted by the patent office, you must pay maintenance or renewal fees, generally on an annual basis, to maintain the validity of the patent.
+
+In case you decide to patent your invention abroad, you should also consider the relevant official filing fees for each country in question, the translation costs, and the costs of using local patent agents, which is a requirement in many countries for foreign applicants.
+
+
+ Can I patent my app?
+Whether you can obtain patent protection for an app depends on which element of your app you wish to protect. If you want to protect a technical idea or feature relating to the app, patent protection is a potential option. Depending on the applicable national law, the software that runs your app may be able to be protected by patents if it has certain technical features. You must be mindful however that your technical idea must meet all of the patentability requirements to obtain patent protection, and it may take years to get a patent.
+
+In addition, it is important to ask yourself which element(s) of your app should be protected from free use by competitors. The software that runs your app can be protected by copyright (potentially also by patents, as described above). If you are interested in protecting logos or signs contained within your app however, you should consider protecting them using trademarks. Literary and artistic works included within your app, such as original databases, musical works, audiovisual works, works of fine art and photographs, are protected by copyright. Graphical objects and layouts can be protected using industrial designs.
+ما هي البراءة؟
+البراءة  هى شهادة تمنح مالكها حق استئثاري يمنح نظير اختراع يكون منتجاً أو عملية تتيح طريقة جديدة لإنجاز عمل ما أو تقدم حلا تقنيا جديدا لمشكلة ما. وتكفل البراءة لمالكها حماية اختراعه. وتمنح لفترة محدودة تدوم 20 سنة على وجه العموم.
+
+ما نوع الحماية التي توفرها البراءة؟
+المراد بالحماية بموجب البراءة أن الاختراع لا يمكن صنعه أو الانتفاع به أو توزيعه أو بيعه لأغراض تجارية دون موافقة مالك البراءة. ويجري إنفاذ الحقوق في البراءة عادة أمام المحاكم التي لها صلاحية وقف التعدي على البراءات في معظم الأنظمة. ويمكن للمحاكم أن تعلن بطلان البراءة أيضا بناء على طعن كسبه الغير.
+
+ما هي حقوق مالك البراءة؟
+لمالك البراءة الحق في تقرير من الذي يجوز له أو لا يجوز له الانتفاع بالاختراع المشمول بالبراءة خلال مدة حماية الاختراع. ويجوز لمالك البراءة التصريح للغير أو الترخيص له بالانتفاع بالاختراع وفقا لشروط متفق عليها. ويجوز لمالك البراءة أيضا بيع حقه في الاختراع لشخص آخر يصبح بذلك مالك البراءة الجديد. وعند انقضاء مدة البراءة، تنتهي الحماية ويؤول الاختراع إلى الملك العام. وهذا يعني أن مالك البراءة لم يعد يتمتع بالحقوق الاستئثارية في الاختراع الذي يصبح في متناول الغير لاستغلاله في التجارة.
+
+لماذا تعد البراءات ضرورية؟
+للبراءات دور حافز للأفراد بالاعتراف بإبداعهم ومكافأتهم ماليا لاختراعاتهم التي يمكن تسويقها. وتشجع تلك الحوافز على الابتكار الذي يضمن تحسن نوعية الحياة البشرية باستمرار.
+
+ما هو دور البراءات في الحياة اليومية؟
+في الواقع، تسربت الاختراعات المشمولة بالبراءات إلى كل نواحي الحياة البشرية وامتدت من الإضاءة الكهربائية (مالك البراءات شركة إيديسون وسوان) والبلاستيك (مالك البراءات بيكلاند) إلى أقلام الحبر الجاف (مالك البراءات بيرو) وأجهزة الحاسوب (مالك البراءات شركة إنتال مثلا).
+
+ويلتزم جميع مالكي البراءات بالكشف عن المعلومات المتعلقة باختراعاتهم للجمهور من أجل إثراء مجموعة المعارف التقنية في العالم مقابل الحماية الممنوحة بموجب البراءة. وتؤدي تلك المجموعة من المعارف العامة المتزايدة بدون انقطاع إلى تشجيع مزيد من الإبداع والابتكار في مجالات أخرى. وهكذا، لا تكتفي البراءات بتوفير الحماية لمالك البراءة فحسب بل تتيح معلومات قيّمة وتلهم الأجيال القادمة من الباحثين والمخترعين. 
+كيف تمنح البراءة؟
+
+تشمل المرحلة الأولى من إجراءات الحصول على براءة إيداع طلب براءة. ويتضمن الطلب اسم الاختراع وبيانا بمجاله التقني عامة. ومن الضروري أن يشمل الطلب خلفية الاختراع ووصفا له بلغة واضحة وتفاصيل كافية لأي شخص له معرفة متوسطة في المجال كي يستعمل الاختراع أو ينفذه. وتكون تلك الأوصاف عادة مرفقة بمواد مرئية مثل الرسوم أو التصاميم أو الرسوم البيانية لوصف الاختراع بشكل أفضل. ويشمل الطلب عدة "مطالب" أيضا، أي المعلومات التي تحدد نطاق الحماية الممنوحة بموجب البراءة. 
+
+ما هي أنواع الاختراعات التي يمكن حمايتها؟
+
+من الضروري أن يفي الاختراع عامة بالشروط التالية حتى يستفيد من الحماية بالبراءة. فلا بد أن تكون له فائدة عملية وأن يبين عنصر الجدة فيه أي بعض الخصائص الجديدة غير المعروفة في مجموعة المعارف المتوافرة في مجاله التقني. ويطلق على مجموعة المعارف تلك اسم "حالة التقنية الصناعية السابقة". ويجب أن يبين الاختراع نشاطا ابتكاريا لا يمكن لأي شخص له معرفة متوسطة في المجال التقني استنتاجه. وفي الأخير، يجب أن يكون الموضوع "أهلا للبراءة" بموجب القانون. وفي العديد من البلدان، تدخل النظريات العلمية أو مناهج العلوم الرياضية أو الأصناف النباتية أو الحيوانية أو الاكتشافات المتعلقة بالمواد الطبيعية أو المناهج التجارية أو أساليب العلاج الطبي (على عكس المستلزمات الطبية) في عداد الموضوعات غير الأهل للبراءة عامة.
+
+من يمنح البراءات؟
+يمنح البراءة المكتب الوطني للبراءات أو المكتب الإقليمي الذي يعمل لصالح عدة بلدان مثل المكتب الأوروبي للبراءات والمنظمة الإقليمية الأفريقية للملكية الفكرية. وبناء على تلك الأنظمة الإقليمية، يلتمس مودع الطلب حماية الاختراع في بلد واحد أو أكثر ويبتّ كل بلد في منح الحماية بالبراءة في أراضيه من عدم منحها. وتنص معاهدة التعاون بشأن البراءات التي تديرها الويبو على إيداع طلب دولي واحد للبراءة تكون له الآثار ذاتها المترتبة على الطلبات الوطنية المودعة في البلدان المعينة. ويجوز لمودع الطلب الذي يلتمس الحماية أن يودع طلبا واحدا ويلتمس الحماية في العدد الذي يراه مناسبا من البلدان الموقعة.
+
+هل البراءات مفيدة للمشروعات التجارية؟
+يعتقد معظم الناس أن البراءات تقترن باختراعات علمية كبيرة مثل أول مصباح كهربائي اخترعه إديسون أو تخص شركات كبيرة تستثمر كميّات هائلة من الأموال في مجال البحث والتطوير. والواقع أن قرابة 000 750 براءة تُمنح في مختلف أرجاء العالم كل سنة. ومع أن العديد منها براءات ممنوحة للاختراع ذاته في عدة بلدان، فمن الصعب تصوّر أن هذا العدد الهائل من الاختراعات العلمية يخرج إلى النور كل سنة. وتُمنح معظم البراءات لاختراعات ليست بذلك القدر من الأهمية، ومنها ما يكون مجرد تحسين يزيد من فعالية المنتَج أو طريقة الصنع أو يسهِّل تسويقه. وعلاوة على ذلك، فإن قوانين بعض البلدان تنص على حماية ابتكارات هي في الواقع عناصر تضاف إلى اختراعات رئيسية، تتخذ شكل نماذج منفعة ولها مدة أقصر من مدة سريان البراءات ويمكن الحصول عليها عامة بسهولة أكبر.
+
+ومع أن الشركات لا تستحدث كلها اختراعات هي أهل للحماية بالبراءات، فمن الخطأ الاعتقاد بأن البراءات تقترن فقط بالعمليات والمنتجات الفيزيائية أو الكيميائية ولا يستفيد منها إلا الشركات الكبيرة. إذ من الممكن الحصول على براءات في أي مجال تكنولوجي من الدبابيس إلى الحواسيب. وهناك اليوم آلاف البراءات الممنوحة لمنتجات عادية جدا مثل الأقلام والزجاجات والنسيج والدرّاجات. (أنظر أيضا "كيف تحوِّل الشركات الصغيرة والمتوسطة الاختراعات إلى أصول تدر الربح".)
+
+كم تكلف البراءات؟
+يمكن تقسيم تكاليف البراءات إلى أربعة أنواع. وأولى هذه التكاليف رسوم الطلب وغيرها من رسوم المعالجة المدفوعة لمكاتب البراءات الوطنية أو الإقليمية. وقد تختلف تلك التكاليف إلى حدّ كبير من بلد إلى آخر (ويمكن الحصول على معلومات عن الرسوم مباشرة من مكاتب الملكية الفكرية الوطنية). وتقلّ تلك التكاليف عادة عن سائر التكاليف المذكورة أدناه. وفي المقام الثاني، هناك التكاليف المتعلقة بأتعاب وكيل البراءات الذي يساعد في تحرير طلبات البراءات. ومع أن الاستعانة بخدمات وكيل البراءات تبقى عادة خيارية (إلا إذا لم يكن المودع يقيم في البلد وكان القانون يقتضي منه تعيين وكيل معتمد يمثله فيه)، فمن المحبّذ عامة الاستعانة بمشورة قانونية عند صياغة وثيقة البراءة. وتتفاوت أتعاب وكلاء البراءات إلى حدّ كبير من بلد إلى آخر. وفي المقام الثالث، هناك تكاليف الترجمة. ولا يُسدّد هذا النوع من الرسوم إلا إذا كانت حماية الملكية الفكرية مطلوبة في بلدان أجنبية تكون لغتها الرسمية مختلفة عن اللغة التي أُعدّ بها الطلب وقد تكون مرتفعة ولا سيّما بالنسبة إلى طلبات البراءات التي تتسم بدرجة عالية من التقنية. وفي المقام الرابع، هناك تكلفة الحفاظ على الطلبات والبراءات بدفع رسوم منتظمة لمكتب البراءات (كل سنة أو كل خمس سنوات مثلا). ولعلّ حماية البراءات خلال مدة الحماية برمتها (التي تبلغ 20 سنة عامة) في عدة بلدان قد تكون مكلفةً، لا سيّما وأن رسوم المحافظة السنوية تزيد عادة كلما زادت مدة الحماية. على أن تلك التكاليف الباهظة تقابلها فوائد كثيرة. إذ ستجد الشركات الصغيرة والمتوسطة التي تعتزم طلب حماية البراءات في عدة بلدان أن الخدمات المتاحة في ظل نظام معاهدة التعاون بشأن البراءات الذي تديره الويبو تكفل رسوما مخفَّضة وإجراءات مبسَّطة إلى حدّ كبير.
+
+هل من الضروري الاستعانة بوكيل للبراءات لإعداد طلب براءة وإيداعه؟
+بإمكان مودعي الطلبات إعداد طلبات براءاتهم وإيداعها من غير مساعدة من وكيل البراءات. على أن من المحبّذ جدا الاستعانة بخدمات وكيل البراءات عند صياغة طلب البراءة. وبالإضافة إلى ذلك، فإن قانون البلد قد يقتضي من المودع الذي يكون محلّ إقامته العادي أو مقرّ عمله الرئيسي خارج البلد تعيين وكيل معتمد (أي أنه يقيم أو يزاول نشاطه) في البلد. ومن الممكن الحصول على معلومات عن الوكلاء المعتمدين مباشرة من مكاتب الملكية الفكرية الوطنية.
+
+كم من الوقت تستغرق عملية الحصول على براءة؟
+عتمد الوقت المستغرق للحصول على براءة على إجراءات التسجيل وعدد من العوامل الأخرى التي تختلف من بلد إلى آخر. ففي البلدان التي لا يخضع فيها طلب البراءة لفحص موضوعي، تنتهي الإجراءات فيها بسرعة (وتستغرق عادة بضعة أشهر). وفي البلدان التي يباشر فيها مكتب البراءات فحصاً موضوعياً دقيقاً للتأكد من أن الاختراع يستوفي شروط الجدّة والنشاط الابتكاري وإمكانية التطبيق الصناعي لاعتباره أهلاً للحماية بموجب البراءة، فلا بدّ أن يستغرق الإجراء منذ الإيداع حتى المنح 12 شهراً على الأقل وقد يزيد على 18 شهراً في حالات عديدة. وقد يستغرق أكثر من ذلك لا سيّما إذا كان قانون البلد ينص على إمكانية الاعتراض قبل منح البراءة أو إذا كان القانون يسمح بما يسمى بالفحص المؤجل (أي ألاّ تخضع البراءة للفحص إلا بناء على طلب بذلك يودع في غضون مهلة معينة من الزمن قد تطول عدة سنوات). وعلاوة على ذلك، فإن نظام الفحص المؤجل يتيح للمودع مهلة أطول ليبت في جدوى طلب براءة لاختراعه في ضوء فرص التسويق وتكاليف الحصول على براءة.
+
+هل يُكشف عن طلبات البراءات للجمهور؟
+تمنح مكاتب البراءات سندات البراءات مقابل كشف كامل عن الاختراع الذي يتم نشره فيصبح بالتالي متاحاً لعامة الجمهور. على أن النشر قد يباشر في مراحل مختلفة من الإجراءات. ولا ينشر بعض البلدان وثائق البراءات مع المطالب ووصف الاختراع إلا عند منح البراءة. وينشر البعض الآخر طلبات البراءات عامة بعد 18 شهراً من تاريخ الإيداع أو تاريخ الأولوية في حال المطالبة بها (ولمزيد من المعلومات عن إجراءات طلب البراءات في بلد بعينه، أنظر موقع مكتب الملكية الفكرية في ذلك البلد).
+
+إذا اخترع موظف منتَجاً جديداً أو طريقة صنع جديدة، فمن الذي يملك الحقوق في البراءة؟
+اذا استحدث موظف اختراعاً أثناء تنفيذ عقد عمل، أي أثناء أوقات عمله في المؤسسة، فإن قوانين معظم البلدان تنص على أن الاختراع (وما يتصل به من حقوق في البراءة) يؤول إلى المؤسسة. وتفادياً لأي لبس أو نزاع محتمل، درج أرباب العمل على تضمين عقود التوظيف بنوداً خاصة بالملكية الفكرية. على أن من الجائز أن يكون للموظف حق في الحصول على مكافأة عادلة، حسب الحال، وفقاً للقانون أو عقد عمله.
+
+هل يمكن تجديد البراءات أو تمديد فترة حمايتها؟
+تنص معظم قوانين البراءات الحديثة على أن تسري الحماية مدة عشرين سنة اعتبارا من تاريخ إيداع الطلب. على أن قوانين بعض البلدان تنص على إمكانية تجديد مدة الحماية أو تمديدها في بعض المجالات، مثل المستحضرات الصيدلية أو الأغذية، نظرا إلى ضرورة استكمال إجراءات الموافقة الإدارية قبل إنزالها الأسواق، ممّا يحرم مالك البراءة من إمكانية التمتع بحقه في بعض الحالات لفترة طويلة بعد منح البراءة.
+
+ما هي الحماية المتوفرة في حال نشر طلب براءة قبل البت في منح البراءة؟
+نص معظم قوانين البراءات على أن لمودع الطلب الحق في اتخاذ تدابير قانونية ضد أفعال التعدّي فور نشر طلب البراءة وقبل منح سند البراءة، على أنه لا يمكنه رفع دعوى إلا بعد منح البراءة وإذا كان قادراً على إثبات أن الفعل المعني فيه تعدّ على البراءة.
+
+ما المقصود بتاريخ الأولوية؟
+كثيراً ما يصادف أن يعمل عدة أشخاص في الوقت ذاته على إيجاد حلّ أو أكثر لمشكلة تقنية بعينها. على أن واحداً منهم فقط يمكنه الحصول على براءة للاختراع ذاته، وتطبق معظم البلدان نظام ما يسمى بالمودع الأول فتمنح البراءة لأول شخص يودع طلباً. ولمبدأ الأولوية فائدة كبيرة عندما يكون الهدف هو الحصول على حماية البراءة للاختراع ذاته في عدة بلدان، لأن المودع لا يضطر إلى إيداع طلبه في كل البلدان المستهدفة في الوقت ذاته. وتنص اتفاقية باريس بشأن حماية الملكية الصناعية على أن بإمكان مودع الطلب الذي أودع طلبه في أحد البلدان الأطراف في الاتفاقية أن يطالب بأولوية ذلك الطلب خلال فترة اثني عشر شهراً ويعتبر تاريخ إيداع ذلك الطلب الأول بمثابة "تاريخ الأولوية". وإذا طلب المودع الحماية في بلدان أعضاء أخرى (في اتفاقية باريس) خلال الأشهر الاثني عشر المذكورة، تكون لتاريخ إيداع ذلك الطلب الأول "الأولوية" على سائر الطلبات المودعة بعد ذلك التاريخ. وفي تلك الحالة، يظل المودع هو المودع الأول في البلدان الأعضاء الأخرى حتى إذا أودعت طلبات أخرى قبل تاريخ إيداع طلبه في تلك البلدان.
+
+ا

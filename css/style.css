@@ -1,0 +1,610 @@
+/*-- Body Reset --*/
+body {
+  overflow-x: hidden;
+  margin: 0;
+
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #fff;
+  -webkit-text-size-adjust: 100%;
+  box-sizing: border-box;
+}
+html{
+  scroll-behavior:smooth;
+}
+.all{
+  background-color: #212529;
+  color:white;
+}
+:root {
+  --mainColor: #D6C363 ;
+  --mainColorRGB:white;
+  --secondColor:black;
+}
+p{
+  
+  line-height: 1.9rem;
+  font-size: 1.2rem;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a{
+  text-decoration: none;
+  color:var(--secondColor);
+  font-size: 1.3rem;
+}
+a:hover{
+  color:var(--mainColorRGB)!important;
+}
+h3{
+  color:black;
+  font-weight: bolder;
+  padding:2% 0 0 0;
+}
+
+/*============= TOP BAR HEADER =============*/
+header {
+ position:absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9;
+  background-color:#d6c363cb;
+  box-shadow: 0 .5rem .5rem rgba(255, 255, 255, 0.541);
+  
+}
+.head-header {
+  border-bottom: 1px solid black;
+  padding: .5rem 0;
+
+}
+
+.head-header .left-head a {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 100;
+}
+
+.head-header .left-head a:first-child {
+  margin-right: .6rem
+}
+
+.head-header .left-head a i {
+  width: 20px;
+}
+
+
+.social-head a {
+  color: black;
+  margin: auto .5rem;
+}
+
+.social-head a i {
+  transition: 0.4s;
+}
+
+.social-head a:hover {
+  color: #D6C363;
+}
+
+.relative{
+  position: relative;
+  background-color: #D6C363;
+}
+.head-header .right-head a.langs {
+  margin-left: 1rem;
+  border-left: 1px solid black;
+  padding-left: 1rem;
+}
+
+/*============= NAVIGATION =============*/
+.navbar-brand img{
+ max-height:5rem;
+}
+.navbar{
+  padding:0
+  
+}
+  
+.nav-item{
+  padding:.5rem;
+
+  font-weight: bolder;
+
+}
+.dropdown-menu{
+  background-color:#d6c363;
+  border: transparent;
+}
+
+.dropdown-item{
+  padding-left: 5px;
+  padding-right: 5px;
+ 
+  text-align: center;
+ 
+}
+.dropdown-item:hover{
+  background-color: transparent;
+}
+
+
+.carousel-caption{
+  color:black;
+  
+  background-color: rgba(255, 255, 255, 0.548);
+  overflow-x: hidden;
+}
+.carousel-caption p{
+
+  font-size: 1.8rem;
+  line-height: 2rem;
+}
+
+
+.carousel-item{
+  height: 40rem;
+}
+.carousel-item img{
+  height: 100%;
+}
+/*start about us section*/
+.section-counter {
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  z-index: 1;
+  background-image: url(../img/counterbacground.png);
+  background-position: center;
+  color:black;
+  margin: auto;
+}
+.txt strong, body {
+  /* font-family: 'Rubik', sans-serif; */
+  font-family: 'Poppins', sans-serif;
+  text-transform: capitalize !important;
+}
+.item-counter {
+  padding: .5rem;
+  text-align: center;
+  border: 3px solid black;
+  margin:2px;
+  background-color: transparent;
+}
+
+.w_20 {
+  width: 20%;
+}
+
+
+.section-aboutus{
+  margin-top:100px;
+}
+.btn-play-vid {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 1px solid #fff;
+  color: #fff;
+  font-size: 2rem;
+  animation: shadow-pulse 1s infinite;
+  cursor: pointer;
+  z-index: 1;
+}
+.img-about {
+  position: relative;
+}
+.img-about::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: 0.5s;
+}
+.img-about:hover::before {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.img-about:hover::after {
+  top: 10px;
+  left: -10px;
+  background-color: var(--mainColor);
+}
+.img-about::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  transition: 0.5s;
+}
+
+.btn-play-vid:hover {
+  color: #fff;
+}
+
+@keyframes shadow-pulse {
+  0% {
+      box-shadow: 0 0 0 0px rgba(255, 255, 255, 0.5);
+  }
+
+  100% {
+      box-shadow: 0 0 0 35px rgba(255, 255, 255, 0)
+  }
+}
+.overlay{
+  background-color:rgba(0, 0, 0, 0.911);
+position: fixed;
+top:0px;
+bottom: 0px;
+left:0px;
+right:0px;
+z-index: 1000;
+display: none;
+}
+.overlay-active{
+  display: block;
+}
+.vido{
+  position: relative;
+  width: 100%;
+  padding-bottom: 35%; 
+  height: 0;
+}
+.vido video{
+  position: absolute;
+  top: 10%;
+  /* left: 15%; */
+  /* bottom: 5%; */
+  right: 17%;
+  width: 70%;
+  height: 100%;
+}
+/*start services section*/
+
+.our-services .service{
+  display:flex;
+  flex-wrap: wrap; 
+  margin:auto;
+  padding:5% 0 10% 10%;
+   justify-content: space-around;
+   
+}
+
+.our-services .service .box{
+  
+padding: 4px;
+cursor: pointer;
+width:25%;/* the half of the headerbox*/
+box-sizing: border-box;/* to prevent including porder and padding size to the div size dont use margin if you want to insert margin you have to supstrict it from plan width*/
+margin:1% ;
+align-items: center;
+text-align: center;
+border-radius:10px;
+border: 1px solid black;
+position: relative;
+background-color: #D6C363;
+box-shadow: 5px 5px 5px grey;
+height: auto;
+overflow-x: hidden;
+
+}
+.box p{
+  color:black;
+}
+
+/*
+.our-services .service .box:hover{
+box-shadow:gray;
+border:#004aad;
+background-color: #004bad5f;
+border-radius: 10px;
+}
+*/
+.our-services .service .box .sora{
+  border-radius: 4px;
+  text-align: center;
+  width:100%;
+  height: 10rem;
+ 
+
+}
+
+.our-services .service .box .sora img{
+width: 100%;
+height: 100%;
+object-fit: cover;
+border-radius: 10px;
+
+}
+.our-services .service .box button{
+ 
+  font-size: 1.2rem;
+  border-radius: 15px;
+  padding: 5px;
+  border:3px solid black;
+ 
+  animation: o 3s infinite ;
+}
+@keyframes o{
+  0%,100%{ border-radius: 0px;
+  letter-spacing: normal;  }
+    
+    50%{border-radius: 10px;
+      letter-spacing: 2px; }
+
+}
+
+.box a:hover{
+  color:#D6C363 !important;
+}
+/*start footer section*/
+
+
+.back{
+  position: absolute;
+  width: 17rem;
+  height:50rem;
+  left: 0px;
+
+
+}
+.back img{
+  width:100%;
+  height: 100%;
+}
+
+footer{
+  background-color:#D6C363 ;
+
+}
+.copyrights {
+  background-color: #fff;
+  border-radius: 30px 30px 0 0;
+  padding: 1rem;
+}
+.social-footer a{
+  padding:5px;
+}
+.address{
+  font-size: 1.3rem;
+  color:#a73703
+}
+
+
+
+/*start the services pages*/
+
+.display-content{
+  width:74%;
+  padding:40px;
+  box-sizing: border-box;
+}
+.contento{
+  text-align: center;
+  display: none;
+  flex-wrap: wrap;
+}
+
+.table-of-content{
+
+height:fit-content; /* Full-height: remove this if you want "auto" height */
+width:20%; /* Set the width of the sidebar */
+background-color:black;
+padding: 20px;
+padding-top: none;
+box-sizing: border-box;
+
+}
+.table-of-content a{
+  color:white;
+ 
+}
+.table-of-content li{
+  text-align: center;
+  border-bottom: 2px dotted white;
+  padding: 20px;
+}
+.table-of-content li:hover{
+background-color:#D6C363  ;
+}
+.hy{
+  position: relative;
+  display: flex;
+  
+}
+@media (max-width: 767.98px){
+header >.container {
+    max-width: 100% !important;
+    padding: 0 1rem;
+}
+
+@media (max-width: 570px) {
+  .head-header > div.d-flex {
+    flex-direction: column;
+  }
+  .head-header .left-head{
+    padding-bottom: 10px;
+  }
+}
+
+@media (max-width: 767.98px){
+.item-counter {
+  max-width: 47%;
+    flex: 0 0 50%;
+    margin-bottom: .5rem;
+    padding: 1rem .4rem;
+}
+.wedget-footer {
+  border-bottom: 1px dashed white;
+  padding: 1rem 0;
+}
+
+
+
+.item-counter .title {
+  font-size: 14px;
+}
+
+.section-counter .d-flex {
+  flex-wrap: wrap;
+}
+
+.item-counter:last-child {
+  max-width: 100%;
+  flex: 0 0 100%;
+}
+}
+
+@media (max-width:991px){
+  .our-services .service{
+padding:10%;
+
+
+  }
+
+
+  .our-services .service .box{
+    text-align: center;
+    margin:10px;
+    width:46%;
+  }
+  .whol-page{
+    display:flex;
+    flex-direction:column;
+  }
+.display-content{
+  margin: 10px;
+  width:97%;
+  padding:15px;
+  overflow-x:scroll;
+}
+.table-of-content{
+  width: 100%;
+
+}
+
+}
+@media (max-width:650px){
+  .our-services .service .box{
+      text-align: center;
+      margin:10px;
+      width:100%;
+  }
+}
+
+
+/*============= CAROUSEL =============*/
+
+
+
+/*---Change Carousel Transition Speed --*/
+
+
+/*-- Carousel Content --*/
+
+
+
+/*===== FIXED BACKGROUND IMG =====*/
+
+.fixed-background {
+  overflow: hidden; /*-- Correction for iOS --*/
+}
+
+
+/*-- Emoji Navbar --*/
+
+
+
+/*============= FOOTER =============*/
+
+
+
+/*============= SOCKET =============*/
+
+
+
+/*============= MEDIA QUERIES =============*/
+
+/* Devices under 1199px (xl) */
+@media (max-width: 1199.98px) {
+
+}
+/* Devices under 768px (md) */
+@media (max-width: 767.98px) {
+
+}
+
+
+/*============ BOOTSTRAP BREAK POINTS:
+
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+=============*/
+
+/*-- Bootstrap Mobile Gutter Fix --*/
+.row, .container-fluid {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+/*-- Fixed Background Image --*/
+.fixed-background {
+  position: relative;
+  width: 100%;
+  z-index: 1000!important;
+}
+.fixed-wrap {
+  clip: rect(0, auto, auto, 0);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -999 !important;
+}
+.fixed {
+  z-index: -999!important;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  will-change: transform;
+}
+
+
+
+
+
+}

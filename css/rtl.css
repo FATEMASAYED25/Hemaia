@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap');
+
+body,p, a, h1, h2 ,h3, h4, h5, h6, .h1, .h2 , .h3, .h4, .h5, .h6, strong {
+    font-family: 'Almarai', sans-serif !important;/*change the font familly please*/
+    
+}  
+
+* {
+    letter-spacing: 0 !important;
+    
+  }
+  
+  .tooltip .tooltip-inner,
+  [type=email]::placeholder,
+  [type=number]::placeholder,
+  [type=tel]::placeholder,
+  [type=url]::placeholder,
+  .item-testi,
+  html, body {
+    direction: rtl;
+  }
+  
+.phone-rtl,
+.slick-slider,
+.swiper-container,
+.owl-carousel {
+  direction: ltr;
+}
+
+.phone-rtl {
+    display: inline-block;
+}
+
+.tooltip .tooltip-inner,
+.table-custom,
+form input[type=email]::placeholder {
+  text-align: right;
+}
+
+header .head-header .right-head a.langs {
+    margin-left: auto;
+    margin-right: 1rem;
+    border-left: 0 solid #fff;
+    border-right: 1px solid #fff;
+    padding-left: 0;
+    padding-right: 1rem;
+}
+
+header .head-header .left-head a:first-child {
+    margin-right: auto;
+    margin-left: .6rem;
+}
+
+.contact-info ul li i,
+.wedget-footer .contact-info-footer li i,
+header .head-header .left-head a i {
+    transform: rotateY(180deg);
+    text-align: center;
+}
+
+
