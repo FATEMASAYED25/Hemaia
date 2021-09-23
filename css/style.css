@@ -264,7 +264,7 @@ display: none;
   padding-bottom: 35%; 
   height: 0;
 }
-.vido video{
+.vido iframe{
   position: absolute;
   top: 10%;
   /* left: 15%; */
