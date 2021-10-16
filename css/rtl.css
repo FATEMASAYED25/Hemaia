@@ -52,7 +52,7 @@ header .head-header .left-head a:first-child {
     margin-left: .6rem;
 }
 
-.navbar-collapse{
+footer , .navbar-collapse{
  text-align: right;
 }
 
