@@ -52,6 +52,10 @@ header .head-header .left-head a:first-child {
     margin-left: .6rem;
 }
 
+.navbar-collapse{
+ text-align: center;
+}
+
 .contact-info ul li i,
 .wedget-footer .contact-info-footer li i,
 header .head-header .left-head a i {
